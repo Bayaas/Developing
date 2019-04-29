@@ -1,2 +1,2 @@
-<h1>  Welcome to my git repositories !!! </h1>
+<h1>  Welcome to git repositories !!! </h1>
 
