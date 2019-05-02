@@ -1,2 +1,2 @@
-<h1>  Welcome to repositories. Its a testing a repository!!! </h1>
+<h1>  Welcome to repositories. Its a test repository!!! </h1>
 
